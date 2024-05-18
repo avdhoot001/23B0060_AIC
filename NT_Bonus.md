@@ -8,9 +8,11 @@ Like
 4)Many a times, a book which i want is issued already
 
 We can make a chatbot which will tell the user
- Which books are available in the library for a certain topic which i am interested in?
- Out of them, which of them are issued and when will they be available and how many are available?
- In short, it will help the library in efficient logistics?
+
+Which books are available in the library for a certain topic which i am interested in?
+Out of them, which of them are issued and when will they be available and how many are available?
+In short, it will help the library in efficient logistics?
+
 -------------------------------------------------------------------------------------------------------------------------
 
 IDEA 2
